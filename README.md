@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Actuellement apprenante Concepteur développeur <br>d'applications dans l'école informatique d'Ada Tech School.<br><br>🔍 Je recherche une alternance en développement Full stack<br><br>🆘 Je cherche de l'aide pour trouver une alternance.<br><br>📚 J'apprends les bases de la programmation, HTML, CSS<br> Javascript, PHP, MySQL, Python, Node.js...
+💻 Actuellement apprenante Concepteur développeur <br>d'applications dans l'école informatique d'Ada Tech School.<br><br>🔍 Je recherche une alternance en développement Full stack<br><br>🆘 Je recherche simplement une alternance afin de consolider mes connaissances et acquérir des compétnces.<br><br>📚 J'apprends les bases de la programmation, HTML, CSS<br> Javascript, PHP, MySQL, Python, Node.js...
 
 
 ## 🌐 Socials:
