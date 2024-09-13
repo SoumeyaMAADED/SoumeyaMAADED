@@ -3,7 +3,7 @@
 Hello everyone 😃 !! Moi, c’est Soumeya et j’ai 31 ans.
 
 Je prépare un diplôme de “Concepteur développeur d'applications” 🎓 dans l'école informatique d'Ada Tech School. 
-Ce qui m’a amené ici sont mes 2 formations chez Simplon suite à une autre qui englobe les bases de l’informatique 💻 (Worpress | UI/UX et iOS).
+Ce qui m’a amené ici sont mes 2 formations chez Simplon suite à une autre qui englobe les bases de l’informatique 💻 (Wordpress | UI/UX et iOS).
 
 J’ai aussi effectué un stage de 2 semaines en Mairie dans les systèmes et réseaux.
 Mon grand frère est Responsable d’un parc informatique.
