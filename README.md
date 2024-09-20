@@ -28,7 +28,4 @@ Je suis novice dans le zéro déchet 🌱 et j'aimerais participer dans des acti
 
 # 💻 Stacks techniques:
 
----
 [![](https://visitcount.itsvg.in/api?id=SoumeyaMAADED&icon=0&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
